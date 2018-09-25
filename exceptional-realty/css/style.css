@@ -15,4 +15,6 @@ figcaption {
   text-align: right; 
 }
 
-.milk-text
+.milk-text {
+  font: bold ;
+}
