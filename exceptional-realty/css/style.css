@@ -6,5 +6,5 @@ figcaption {
   font-size: 0.75em;
   line-height: 1.5em;
   font-family: Georgia, "New Times New Roman", serif; (We use quotes for names with spaces in between)*/
-  font: normal 0.75;
+  font: normal 0.75em/1.5em ;
 }
